@@ -1,0 +1,28 @@
+h1{
+	font-family: monospace;
+	color: deeppink;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+p{
+	text-indent: 25px;
+}
+span{
+	font-variant: small-caps;
+	color: deeppink;
+	font-weight: black;
+	text-shadow: 2px 2px 3px deeppink;
+}
+#external1{
+	text-shadow: 2px 2px 3px deeppink;
+	color: black;
+}
+body{
+	background-color: white;
+}
+#pic1{
+	border-style: solid;
+	border-color: deeppink;
+	float: right;
+}
