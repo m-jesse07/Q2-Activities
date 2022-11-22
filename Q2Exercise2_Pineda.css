@@ -1,0 +1,25 @@
+h1{
+	color: white; background-color: darkmagenta;
+}
+h3{
+	color: darkmagenta; font-family: monospace;font-size: 20px;
+}
+p{
+	font-family: Berlin Sans FB;
+}
+.Para5{
+	font-family: cursive;
+}
+.div2{
+	background-color: #F7E7CE;
+}
+div{
+	text-align: center;
+}
+.img1{
+	display: block;margin: auto; 
+	border-style: dotted;border-color:#3B719F;
+}
+#Para1{
+	font-family: fantasy;
+}
