@@ -1,0 +1,28 @@
+body{
+	border-style: solid;
+	background-color: #c3b091;
+	border-width: 10px;
+}
+.Div1{
+	background-color: mediumvioletred;
+	padding: 5px 5px 5px;
+}
+.Div2{
+	background-color: lightcyan;
+	padding: 10px 10px 10px;
+	margin: auto;
+}
+h1{
+	font-family: serif;
+	color: black;
+	text-shadow: lavenderblush 3px 3px;
+}
+ul{
+	font-family: monospace;
+	color: black;
+}
+.img1{
+	border-style: inset;
+	background-color: olives;
+	border-width: 7px;
+}
