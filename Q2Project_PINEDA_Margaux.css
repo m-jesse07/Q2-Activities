@@ -1,0 +1,57 @@
+body{
+	border-style: solid;
+	background-color:#868B8E;
+	border-width: 10px;
+	border-color: black;
+	margin: 30px;
+}
+.logo{
+	margin-top: 20px;
+}
+.sub1{
+	background-color: salmon;
+	font-family: Impact;
+	text-transform: uppercase;
+	letter-spacing: 9px;
+	text-shadow: 2px 2px 2px navajowhite;
+}
+table{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.img1{
+	padding: 3px;
+	opacity: .75;
+}
+.img2{
+	padding: 3px;
+	opacity: .75;
+}
+.img3{
+	padding: 3px;
+	opacity: .75;
+}
+img:hover{
+	opacity: 1;
+}
+.price1{
+	color: black;
+	text-shadow: 3px 3px 4px red;
+	letter-spacing: 7px;
+}
+.price2{
+	color: black;
+	text-shadow: 3px 3px 4px red;
+	letter-spacing: 7px;
+}
+.price3{
+	color: black;
+	text-shadow: 3px 3px 4px red;
+	letter-spacing: 7px;
+}
+.profile{
+	border: none;
+	height: 70px;
+	width: 60px;
+}
